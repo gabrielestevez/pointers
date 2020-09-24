@@ -1,3 +1,2 @@
 #include <iostream>
-//hola
-#include <stdio>
+//adios
